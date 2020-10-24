@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Navodya\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Navodya\\.nuget\\packages"
+    ]
+  }
+}
